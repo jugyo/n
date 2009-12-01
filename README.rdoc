@@ -1,0 +1,7 @@
+= n
+
+The "n" is like Kernel.p but it uses notify-send instead.
+
+== Copyright
+
+Copyright (c) 2009 jugyo. See LICENSE for details.
